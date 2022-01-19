@@ -1,9 +1,9 @@
 const BLOG = {
   title: '今天我24岁',
-  author: 'limingjun',
+  author: 'Limingjun',
   email: '',
   link: 'https://limingjun.me',
-  description: '',
+  description: '也永远不再24岁',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
