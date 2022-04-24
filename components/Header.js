@@ -70,7 +70,7 @@ const Header = ({ navBarTitle, fullWidth }) => {
           <Link href="/">
             <a aria-label={BLOG.title}>
               <div className="h-6">
-<svg class="home-btn" width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg"><circle cx="12" cy="12" r="12" fill="url(#paint0_radial_5_2)"></circle><defs><radialGradient id="paint0_radial_5_2" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(8 8) rotate(45) scale(15.5563)"><stop stop-color="#BABABA"></stop><stop offset="0.354167" stop-color="#828282"></stop><stop offset="1" stop-color="#191919"></stop></radialGradient></defs></svg>              </div>
+              ✨
             </a>
           </Link>
           {navBarTitle
