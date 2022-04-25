@@ -1,7 +1,7 @@
 const BLOG = {
   title: '今天我24岁',
   author: 'Limingjun',
-  email: '',
+  email: 'limingjiun@gmail.com',
   link: 'https://limingjun.me',
   description: '也永远不再24岁',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
