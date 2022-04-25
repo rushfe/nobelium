@@ -40,7 +40,7 @@ svg + .notion-page-title-text {
 }
 
 .notion-code > code {
-  @apply text-gray-900;
+  @apply text-orange-100;
 }
 
 pre[class*='language-'] {
